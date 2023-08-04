@@ -12,20 +12,24 @@ Notable features include:
 
 # File descriptions
 - Vowel Counter: midtermB.cpp
-    - file streams
-    - selection statements.
 
 - Test Files:
     - test0.txt (empty file)
     - test1.txt (no vowels)
     - test2.txt (mix of vowels)
     - t8.shakespeare.txt (book)
+        - Due to the size of the file I have omitted it from the repository.  Pllease feel free to download a book to test
+          the program at:
+          - https://ocw.mit.edu/ans7870/6/6.006/s08/lecturenotes/files/t8.shakespeare.txt
+              - Open a web browser to download
+              - **or**
+              - Use the linux command: "$ wget https://ocw.mit.edu/ans7870/6/6.006/s08/lecturenotes/files/t8.shakespeare.txt"
 
 ## Getting Started
 
 Clone/download the files and any dependencies for your project then compile and run the programs using the linux command:
     - "$ c++ $CXXFLAGS midtermB.cpp -o midtermB"
-    - "echo [file.ext] | ./midtermB"
+    - "$ echo [file.ext] | ./midtermB"
 
 ### Prerequisites
 
