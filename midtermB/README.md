@@ -18,7 +18,7 @@ Notable features include:
     - test1.txt (no vowels)
     - test2.txt (mix of vowels)
     - t8.shakespeare.txt (book)
-        - Due to the size of the file I have omitted it from the repository.  Pllease feel free to download a book to test
+        - Due to the size of the file I have omitted it from the repository.  Please feel free to download a book to test
           the program at:
           - https://ocw.mit.edu/ans7870/6/6.006/s08/lecturenotes/files/t8.shakespeare.txt
               - Open a web browser to download
