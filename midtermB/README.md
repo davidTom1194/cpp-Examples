@@ -16,10 +16,10 @@ Notable features include:
     - selection statements.
 
 - Test Files:
-    - test0.txt
-    - test1.txt
-    - test2.txt
-    - t8.shakespeare.txt
+    - test0.txt (empty file)
+    - test1.txt (no vowels)
+    - test2.txt (mix of vowels)
+    - t8.shakespeare.txt (book)
 
 ## Getting Started
 
