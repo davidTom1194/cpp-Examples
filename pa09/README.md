@@ -23,8 +23,8 @@ Notable features include:
 ## Getting Started
 
 Clone/download the files and any dependencies for your project then compile and run the programs using the linux command:
-    - "$ c++ $CXXFLAGS pa09.cpp -o pa09"
-    - "$ ./pa09 pa09-data0.csv"
+  - "$ c++ $CXXFLAGS pa09.cpp -o pa09"
+  - "$ ./pa09 pa09-data0.csv"
 
 ### Prerequisites
 
