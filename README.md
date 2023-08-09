@@ -28,8 +28,8 @@ Check the README.md files within each directory for more information
 ## Getting Started
 
 Clone/download the files and any dependencies for your project then compile and run the programs using the linux command:
-    - "$ c++ $CXXFLAGS [programName.cpp] -o [programName]"
-    - "./[programName]
+  - "$ c++ $CXXFLAGS [programName.cpp] -o [programName]"
+  - "./[programName]
 
 ### Prerequisites
 
