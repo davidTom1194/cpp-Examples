@@ -30,8 +30,8 @@ Notable features include:
 ## Getting Started
 
 Clone/download the files and any dependencies for your project then compile and run the programs using the linux command:
-    - "$ c++ $CXXFLAGS midtermB.cpp -o midtermB"
-    - "$ echo [file.ext] | ./midtermB"
+  - "$ c++ $CXXFLAGS midtermB.cpp -o midtermB"
+  - "$ echo [file.ext] | ./midtermB"
 
 ### Prerequisites
 
