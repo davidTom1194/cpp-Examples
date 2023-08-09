@@ -7,10 +7,22 @@ Check the README.md files within each directory for more information
 # File descriptions
 - Vowel Counter: midtermB.cpp
     - file streams
-    - selection statements.
+    - selection statements
+
+- Book Cipher: pa08.cpp
+    - functions
+    - arrays
+    - file streams
 
 - Grade Calculator: pa09.cpp
     - functions
+    - structs
+    - command line arguments
+
+- Grade Report: final.cpp
+    - functions
+    - arrays
+    - file streams
     - structs
 
 ## Getting Started
