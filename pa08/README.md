@@ -25,8 +25,8 @@ Notable features include:
 ## Getting Started
 
 Clone/download the files and any dependencies for your project then compile and run the programs using the linux command:
-    - "$ c++ $CXXFLAGS pa08.cpp -o pa08"
-    - "$ echo [codedMessage.ext] [cipherTextKey.ext] | ./pa08"
+  - "$ c++ $CXXFLAGS pa08.cpp -o pa08"
+  - "$ echo [codedMessage.ext] [cipherTextKey.ext] | ./pa08"
 
 ### Prerequisites
 
