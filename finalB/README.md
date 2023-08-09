@@ -23,8 +23,8 @@ Notable features include:
 ## Getting Started
 
 Clone/download the files and any dependencies for your project then compile and run the programs using the linux command:
-    - "$ c++ $CXXFLAGS finalB.cpp -o finalB"
-    - "$ echo finalB-data0.txt | ./finalB"
+  - "$ c++ $CXXFLAGS finalB.cpp -o finalB"
+  - "$ echo finalB-data0.txt | ./finalB"
 
 ### Prerequisites
 
