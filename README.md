@@ -25,6 +25,12 @@ Check the README.md files within each directory for more information
     - file streams
     - structs
 
+- Pointer and DNA Nucleotides: pa13a.cpp
+    - Makefile
+    - pointers
+    - vectors
+    - arrays
+
 ## Getting Started
 
 Clone/download the files and any dependencies for your project then compile and run the programs using the linux command:
