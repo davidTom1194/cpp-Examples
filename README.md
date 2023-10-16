@@ -27,6 +27,7 @@ Check the README.md files within each directory for more information
 
 - Pointer and DNA Nucleotides: pa13a.cpp
     - Makefile
+    - stream overloads
     - pointers
     - vectors
     - arrays
