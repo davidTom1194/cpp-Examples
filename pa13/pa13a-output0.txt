@@ -1,0 +1,4 @@
+Original Sequence: ATCGTGCTA
+Reversed Sequence: ATCGTGCTA
+Palindromic
+Nucleotide Counts: A=2 C=2 G=2 T=3

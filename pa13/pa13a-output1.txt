@@ -1,0 +1,4 @@
+Original Sequence: ATCGTAGCTA
+Reversed Sequence: ATCGATGCTA
+Not Palindromic
+Nucleotide Counts: A=3 C=2 G=2 T=3
