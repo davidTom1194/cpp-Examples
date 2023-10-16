@@ -4,6 +4,7 @@ This program is a programming assignment that demonstrates class concepts learne
 Notable features include:
   - proper code documentation
   - proper implementation of Makefiles
+  - stream overload functions
   - pointers
   - vectors
   - no/minimal memory leaks
