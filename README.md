@@ -31,6 +31,12 @@ Check the README.md files within each directory for more information
     - pointers
     - vectors
     - arrays
+ 
+ - Pointer and Grade Calculator: pa13b.cpp
+    - Makefile
+    - pointers
+    - vectors
+    - arrays
 
 ## Getting Started
 
