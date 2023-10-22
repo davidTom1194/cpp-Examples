@@ -1,0 +1,5 @@
+everyone: 2
+hello: 2
+here: 1
+is: 1
+world: 1
