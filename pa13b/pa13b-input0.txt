@@ -1,0 +1,4 @@
+Adams 87 92 78
+Baker 89 84 70
+Campbell 85 93 76
+Davis 91 87 84
