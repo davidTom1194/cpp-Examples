@@ -37,6 +37,16 @@ Check the README.md files within each directory for more information
     - pointers
     - vectors
     - arrays
+  
+- Pointer and Word Counter: pa14.cpp
+  - Makefiles
+  - stream overload functions
+  - pointers
+  - vectors
+  - structs
+  - no memory leaks
+  - selection statements
+  - selection sort algorithm
 
 ## Getting Started
 
