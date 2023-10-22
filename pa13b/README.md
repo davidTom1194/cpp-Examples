@@ -15,8 +15,8 @@ Notable features include:
 - Pointer and Grade Calculator: pa13b.cpp
 
 - Test Files:
-    - pa13a-input*.txt 		(input files)
-    - pa13a-output*.txt 	(expected output) 
+    - pa13b-input*.txt 		(input files)
+    - pa13b-output*.txt 	(expected output) 
 
 ## Getting Started
 
