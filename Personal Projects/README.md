@@ -1,4 +1,4 @@
-# C++
+# Personal Projects
 This repository contains an assortment of C++ code.
 These projects were course submissions that were intended to learn and practice coding in C++ while requiring little to no
 knowledge of the intended requirements.
