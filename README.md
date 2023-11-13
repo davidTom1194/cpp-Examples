@@ -71,6 +71,20 @@ Check the README.md files within each directory for more information
   - no memory leaks
   - and an appropriate output based on the validity of the program's operation.
 
+- Personal Projects - Tic Tac Toe: Tic-Tac-Toe.cpp
+  - proper code documentation
+  - AI vs AI, AI vs Human, and Human vs Human
+  - AI Algorithms: Minimax with Alpha-Beta Cut Off & Random Selections
+  - dynamic game board size
+  - customizable AI game counts
+  - benchmarking function
+  - bounds checking and input verification
+  - pointers
+  - vectors
+  - structs
+  - no memory leaks
+  - and an appropriate output based on the validity of the program's operation.
+
 ## Getting Started
 
 Clone/download the files and any dependencies for your project then compile and run the programs using the linux command:
