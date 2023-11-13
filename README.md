@@ -48,6 +48,17 @@ Check the README.md files within each directory for more information
   - selection statements
   - selection sort algorithm
 
+ - Recursive Demonstration: pa15.cpp
+  - proper code documentation
+  - proper implementation of Makefiles
+  - recursive functions
+  - pointers
+  - vectors
+  - no memory leaks
+  - selection statements
+  - selection sort algorithm
+  - and an appropriate output based on the validity of the program's operation.
+
 ## Getting Started
 
 Clone/download the files and any dependencies for your project then compile and run the programs using the linux command:
