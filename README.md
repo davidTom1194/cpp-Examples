@@ -48,7 +48,7 @@ Check the README.md files within each directory for more information
   - selection statements
   - selection sort algorithm
 
- - Recursive Demonstration: pa15.cpp
+- Recursive Demonstration: pa15.cpp
   - proper code documentation
   - proper implementation of Makefiles
   - recursive functions
@@ -57,6 +57,18 @@ Check the README.md files within each directory for more information
   - no memory leaks
   - selection statements
   - selection sort algorithm
+  - and an appropriate output based on the validity of the program's operation.
+
+- Iterators, Sorting, and Searching Algorithms: pa16.cpp
+  - proper code documentation
+  - proper implementation of Makefiles
+  - iterators
+  - sorting algorithms (ie. bubble sort, selection sort, insertion sort, and std::sort)
+  - searching algorithms (ie. sequential sort & binary sort)
+  - pointers
+  - vectors
+  - structs
+  - no memory leaks
   - and an appropriate output based on the validity of the program's operation.
 
 ## Getting Started
