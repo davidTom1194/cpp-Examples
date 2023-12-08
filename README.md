@@ -79,6 +79,17 @@ Check the README.md files within each directory for more information
     - no memory leaks
     - and an appropriate output based on the validity of the program's operation.
 
+Notable features - Stacks and Infix/Postfix Notation: pa18.cpp
+  - proper code documentation
+  - proper implementation of Makefiles
+  - iterators
+  - linked lists
+  - stacks
+  - infix/postfix notations
+  - no memory leaks
+  - selection statements
+  - and an appropriate output based on the validity of the program's operation.
+
 - Personal Projects - Tic Tac Toe: Tic-Tac-Toe.cpp
   - proper code documentation
   - AI vs AI, AI vs Human, and Human vs Human
