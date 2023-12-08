@@ -13,7 +13,7 @@ Notable features include:
   - and an appropriate output based on the validity of the program's operation.
 
 # File descriptions
-- Iterators, Sorting, and Searching Algorithms: pa18.cpp
+- Stacks and Infix/Postfix Notation: pa18.cpp
 
 ## Getting Started
 
