@@ -1,0 +1,8 @@
+Case 1: 11
+Case 2: 2
+Case 3: -6
+Case 4: 4
+Case 5: 40
+Case 6: 19
+Case 7: -1
+Case 8: 2
